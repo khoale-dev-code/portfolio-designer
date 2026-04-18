@@ -1,0 +1,6 @@
+- [x] Install cinematic motion dependencies (`@studio-freight/lenis`, `gsap`)
+- [x] Integrate Lenis smooth scroll loop in app root
+- [x] Add global cinematic spacing/motion utilities in `src/index.css`
+- [ ] Upgrade Navbar + Hero layout/motion for more breathing room
+- [ ] Upgrade content sections (`About`, `FeaturesChess`, `FeaturesGrid`, `Stats`, `Projects`, `Testimonials`, `Contact`, `CtaFooter`) with consistent spacing and scroll-reveal feel
+- [ ] Run and verify with `npm run dev`
