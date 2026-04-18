@@ -5,12 +5,12 @@ import AboutSection from "./components/AboutSection";
 import FeaturesChess from "./components/FeaturesChess";
 import FeaturesGrid from "./components/FeaturesGrid";
 import Stats from "./components/Stats";
-import ProjectsSection from "./components/ProjectsSection";
+import ProjectsSection from "./components/Projectssection";
 import Testimonials from "./components/Testimonials";
-import ContactSection from "./components/ContactSection";
+import ContactSection from "./components/Contactsection";
 import CtaFooter from "./components/CtaFooter";
-import ScrollProgress from "./components/ScrollProgress";
-import CustomCursor from "./components/CustomCursor";
+import ScrollProgress from "./components/Scrollprogress";
+import CustomCursor from "./components/Customcursor";
 
 export default function App() {
   // --- CẤU HÌNH VẬT LÝ CHO LENIS (CINEMATIC SCROLL) ---
